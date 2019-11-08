@@ -6,5 +6,6 @@ def check(tab,x):
     for i in tab:
         i = int(i)
         if x == i:
-            print("Liczba jest w tablicy.")
+            print("Rezultat: Podana liczba wystepuje w tablicy.")
+check(tab,x)
        
