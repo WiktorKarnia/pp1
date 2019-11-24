@@ -1,5 +1,9 @@
 import turtle
 pen = turtle.Turtle()
-while True:
+i = 0
+while i<4:
     pen.forward(100)
-    pen.right(90)     # Rotate clockwise by 90 degrees
+    pen.right(90)
+    i=i+1
+
+    

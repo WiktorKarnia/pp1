@@ -1,0 +1,2 @@
+import QuadraticEquation
+QuadraticEquation.pierwiastki()
